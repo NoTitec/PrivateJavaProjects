@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07f0467-6708-41ec-b246-59298761bc46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarbuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/ObserverPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +35,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/PrivateJavaProjects/DesignPattern/Strategy_Patten"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

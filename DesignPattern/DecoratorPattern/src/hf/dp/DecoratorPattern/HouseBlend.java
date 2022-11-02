@@ -1,3 +1,5 @@
+package hf.dp.DecoratorPattern;
+
 public class HouseBlend extends Beverage{
     public HouseBlend(){
         description="HouseBlend";

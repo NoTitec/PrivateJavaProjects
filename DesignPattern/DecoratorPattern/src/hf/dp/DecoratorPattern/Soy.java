@@ -1,6 +1,7 @@
-public class Mocha extends CondimentDecorator{
+package hf.dp.DecoratorPattern;
 
-    public Mocha(Beverage beverage){
+public class Soy extends CondimentDecorator{
+    public Soy(Beverage beverage){
         this.beverage=beverage;
     }
     @Override
@@ -10,6 +11,6 @@ public class Mocha extends CondimentDecorator{
 
     @Override
     public String getDescription() {
-        return beverage.getDescription()+"Mocha";
+        return beverage.getDescription()+"Soy";
     }
 }

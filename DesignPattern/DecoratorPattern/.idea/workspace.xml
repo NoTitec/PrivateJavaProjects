@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07f0467-6708-41ec-b246-59298761bc46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/Soy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/CondimentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/DarkRoast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/Mocha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarbuzzCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/StarbuzzCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/DecoratorPattern/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +48,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/PrivateJavaProjects/DesignPattern/Strategy_Patten"
+    "last_opened_file_path": "D:/PrivateJavaProjects/DesignPattern/FactoryPattern"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PrivateJavaProjects\DesignPattern\DecoratorPattern\src\hf\dp\DecoratorPattern" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

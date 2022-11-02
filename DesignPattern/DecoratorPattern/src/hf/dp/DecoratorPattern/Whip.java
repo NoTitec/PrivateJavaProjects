@@ -1,3 +1,5 @@
+package hf.dp.DecoratorPattern;
+
 public class Whip extends CondimentDecorator{
 
     public Whip(Beverage beverage){

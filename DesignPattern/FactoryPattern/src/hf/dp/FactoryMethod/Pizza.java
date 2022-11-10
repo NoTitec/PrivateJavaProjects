@@ -1,3 +1,5 @@
+package hf.dp.FactoryMethod;
+
 import java.util.ArrayList;
 
 public abstract class Pizza {
@@ -6,7 +8,7 @@ public abstract class Pizza {
     String sauce;
     ArrayList topping= new ArrayList<>();
 
-    void prepare(){
+    public void prepare(){
         System.out.println("Preparing"+name);
         System.out.println("toss");
         System.out.println("add sauce");
@@ -18,13 +20,13 @@ public abstract class Pizza {
 
     }
 
-    void bake(){
+    public void bake(){
         System.out.println("bake");
     }
-    void cut(){
+    public void cut(){
         System.out.println("cut");
     }
-    void box(){
+    public void box(){
         System.out.println("place");
     }
 }

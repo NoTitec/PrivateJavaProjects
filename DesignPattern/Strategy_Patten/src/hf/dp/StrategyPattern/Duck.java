@@ -1,8 +1,8 @@
 package hf.dp.StrategyPattern;
 
 public abstract class Duck {
-    FlyBehavior flyBehavior;
-    QuackBehavior quackBehavior;
+    FlyBehavior flyBehavior;//행동
+    QuackBehavior quackBehavior;//행동
 
     public Duck() {}
 

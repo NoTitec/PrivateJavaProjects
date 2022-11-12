@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a7ad334-8919-428f-87b6-7e77cc9e32cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/BlackOlives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Clams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Eggplant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/FreshClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/FrozenClams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Garlic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/MarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/MozzarellaCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Onion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/PizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/PizzaTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/PlumTomatoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/RedPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/ReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/SlicedPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Spinach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/ThickCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/ThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/AbstractFactory/Veggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/NYStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hf/dp/FactoryMethod/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PizzaTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy_Patten/src/hf/dp/StrategyPattern/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy_Patten/src/hf/dp/StrategyPattern/Duck.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GYz3KRNdV6dY9atvrYgUhoDPXZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PrivateJavaProjects/DesignPattern/Strategy_Patten&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="AbstractFactory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PrivateJavaProjects\DesignPattern\FactoryPattern\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AbstractFactory" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractFactory.PizzaTestDrive" />
+      <module name="FactoryPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a7ad334-8919-428f-87b6-7e77cc9e32cc" name="Changes" comment="" />
+      <created>1666580106974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666580106974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

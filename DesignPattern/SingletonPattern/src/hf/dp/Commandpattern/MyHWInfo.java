@@ -1,9 +1,9 @@
-package hf.dp.Singletonpattern; // 숙제 package와 동일하게
+package hf.dp.Commandpattern; // 숙제 package와 동일하게
 
-import java.time.LocalDate;
-import java.time.LocalTime;
 import java.net.InetAddress;
 import java.net.NetworkInterface;
+import java.time.LocalDate;
+import java.time.LocalTime;
 
 public class MyHWInfo {
 

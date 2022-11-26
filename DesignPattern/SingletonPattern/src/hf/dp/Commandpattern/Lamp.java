@@ -1,2 +1,7 @@
-package hf.dp.Commandpattern;public class Lamp {
+package hf.dp.Commandpattern;
+
+public class Lamp {
+    public void turnOn(){
+        System.out.println("Lamp On");
+    }
 }

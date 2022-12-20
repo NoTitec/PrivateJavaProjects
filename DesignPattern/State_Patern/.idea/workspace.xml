@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68505c11-7921-4f05-a9e1-c1a5fbd904e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/Composite_Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/CompositeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/NullIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/hf/dp/CompositePattern/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/IteratorPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPattern/src/hf/dp/IteratorPattern/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/ProxyPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hf/dp/Proxy_virtual/ImageComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hf/dp/Proxy_virtual/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hf/dp/Proxy_virtual/ImageProxyTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hf/dp/Proxy_virtual/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hg/dp/Proxy_protection/MatchMakingTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hg/dp/Proxy_protection/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hg/dp/Proxy_protection/NonOwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hg/dp/Proxy_protection/OwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hg/dp/Proxy_protection/PersonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/hg/dp/Proxy_protection/PersonBeanImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State_Patern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/MyHWInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hf/dp/StatePatern/WinnerState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolyMorphism_test/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J0lgYpJU0CL6tEjWY1SR1FSsLL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PrivateJavaProjects/DesignPattern/State_Patern/src/hf/dp/StatePatern&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PrivateJavaProjects\DesignPattern\State_Patern\src\hf\dp\StatePatern" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68505c11-7921-4f05-a9e1-c1a5fbd904e0" name="Changes" comment="" />
+      <created>1671222994159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671222994159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
